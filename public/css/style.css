@@ -208,9 +208,9 @@ p {
 }
 #fh5co-home .flexslider .fh5co-text h1 {
   margin: 0;
-  padding: 0;
+  padding: 5;
   font-family: "Playfair Display", serif;
-  font-size: 300px;
+  font-size: 200px;
   font-weight: 700;
   font-style: italic;
   color: #fff;
@@ -333,7 +333,7 @@ p {
 .fh5co-main-nav .fh5co-logo {
   text-align: center;
   width: 19.33%;
-  font-size: 40px;
+  font-size: 20px;
   font-family: "Playfair Display", serif;
   font-weight: 700;
   font-style: italic;
@@ -349,7 +349,7 @@ p {
 }
 
 .fh5co-heading .heading {
-  font-size: 50px;
+  font-size: 30px;
   font-style: italic;
   position: relative;
   padding-bottom: 30px;
